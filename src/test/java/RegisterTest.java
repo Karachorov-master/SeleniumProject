@@ -11,6 +11,7 @@ import java.time.Duration;
 public class RegisterTest extends BaseTest {
 
     @Test
+
     public void registerUserTest() {
 
         driver.get("https://auto.pragmatic.bg/");
